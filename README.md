@@ -222,7 +222,7 @@
 | 70 |  [john](https://github.com/openwall/john) | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs | openwall | 8281 |
 | 71 |  [reactos](https://github.com/reactos/reactos) | A free Windows-compatible Operating System | reactos | 13172 |
 | 72 |  [hashcat](https://github.com/hashcat/hashcat) | World&#39;s fastest and most advanced password recovery utility | hashcat | 18326 |
-| 73 |  [zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. | zephyrproject-rtos | 8439 |
+| 73 |  [zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. | zephyrproject-rtos | 8440 |
 | 74 |  [vde-2](https://github.com/virtualsquare/vde-2) |  | virtualsquare | 101 |
 | 75 |  [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image Format” for fast, lossless image compression | phoboslab | 6484 |
 | 76 |  [rdup](https://github.com/miekg/rdup) | The only backup program that doesn&#39;t make backups! | miekg | 107 |
@@ -230,7 +230,7 @@
 | 78 |  [icmptunnel](https://github.com/wangyu-/icmptunnel) | Transparently tunnel your IP traffic through ICMP echo and reply packets. | wangyu- | 3 |
 | 79 |  [ustreamer](https://github.com/pikvm/ustreamer) | µStreamer - Lightweight and fast MJPEG-HTTP streamer | pikvm | 1362 |
 | 80 |  [kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) | Windows paravirtualized drivers for QEMU\KVM | virtio-win | 1596 |
-| 81 |  [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 53034 |
+| 81 |  [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 53035 |
 | 82 |  [cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) | Cloudflare Blog code samples | cloudflare | 1057 |
 | 83 |  [kernel-syslog](https://github.com/tianyuanhao/kernel-syslog) | 📝 Kernel module that can be used as a replacement for syslog, logger or logwrapper | tianyuanhao | 42 |
 | 84 |  [execmon](https://github.com/kfiros/execmon) | Advanced process execution monitoring utility for linux (procmon like) | kfiros | 81 |
@@ -259,7 +259,7 @@
 | 107 |  [mkvserver_mk2](https://github.com/klaxa/mkvserver_mk2) | The streaming solution to end all streaming problems | klaxa | 481 |
 | 108 |  [videostreamer](https://github.com/horgh/videostreamer) | Stream video (e.g. RTSP) to an HTML5 video element (MP4) | horgh | 262 |
 | 109 |  [ffmpeg.wasm-core](https://github.com/ffmpegwasm/ffmpeg.wasm-core) | Mirror of git://source.ffmpeg.org/ffmpeg.git | ffmpegwasm | 330 |
-| 110 |  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg for browser, powered by WebAssembly | ffmpegwasm | 11441 |
+| 110 |  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | FFmpeg for browser, powered by WebAssembly | ffmpegwasm | 11442 |
 | 111 |  [systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars &amp; Solutions, Inc. @ http://www.windows-internals.com | winsiderss | 9432 |
 | 112 |  [progress](https://github.com/Xfennec/progress) | Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) | Xfennec | 7896 |
 | 113 |  [Impost3r](https://github.com/ph4ntonn/Impost3r) | 👻Impost3r -- A linux password thief | ph4ntonn | 565 |
@@ -477,7 +477,7 @@
 | 48 |  [Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. | hyprwm | 11022 |
 | 49 |  [curve](https://github.com/opencurve/curve) | Curve is a sandbox project hosted by the CNCF Foundation. It&#39;s cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage. | opencurve | 2068 |
 | 50 |  [winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | microsoft | 20908 |
-| 51 |  [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | dragonflydb | 21104 |
+| 51 |  [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | dragonflydb | 21105 |
 | 52 |  [service-fabric](https://github.com/microsoft/service-fabric) | Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. | microsoft | 2981 |
 | 53 |  [stockast](https://github.com/RajdeepKonwar/stockast) | Predict stock market pricing over 180 minutes using Black-Scholes stochastic modeling and parallel Monte-Carlo simulations. | RajdeepKonwar | 37 |
 | 54 |  [hotspot](https://github.com/KDAB/hotspot) | The Linux perf GUI for performance analysis. | KDAB | 3460 |
@@ -674,7 +674,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [compose-spec](https://github.com/compose-spec/compose-spec) | The Compose specification | compose-spec | 1819 |
 | 2 |  [code-with-engineering-playbook](https://github.com/microsoft/code-with-engineering-playbook) | This is the playbook for &#34;code-with&#34; customer or partner engagements | microsoft | 1829 |
-| 3 |  [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. | mikeroyal | 6079 |
+| 3 |  [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. | mikeroyal | 6080 |
 | 4 |  [build-infra](https://github.com/couchbase/build-infra) | Various programs and scripts used by the Build &amp; Release team not directly related to specific software build processes | couchbase | 6 |
 | 5 |  [nocode](https://github.com/kelseyhightower/nocode) | The best way to write secure and reliable applications. Write nothing; deploy nowhere. | kelseyhightower | 57792 |
 | 6 |  [privado](https://github.com/Privado-Inc/privado) | Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities &amp; generate accurate Play Store Data Safety Report. | Privado-Inc | 430 |
@@ -716,7 +716,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [realtime](https://github.com/supabase/realtime) | Broadcast, Presence, and Postgres Changes via WebSockets | supabase | 6122 |
 | 2 |  [analytics](https://github.com/plausible/analytics) | Simple, open source, lightweight (&amp;lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. | plausible | 16172 |
-| 3 |  [firezone](https://github.com/firezone/firezone) | WireGuard®-based VPN server and firewall | firezone | 5343 |
+| 3 |  [firezone](https://github.com/firezone/firezone) | WireGuard®-based VPN server and firewall | firezone | 5344 |
 | 4 |  [margaret](https://github.com/dbstratta/margaret) | 👩‍🚀 A publishing platform. An open-source alternative to Medium. | dbstratta | 87 |
 | 5 |  [changelog.com](https://github.com/thechangelog/changelog.com) | Changelog is news and podcast for developers. This is our open source platform. | thechangelog | 2602 |
 
@@ -805,7 +805,7 @@
 | 41 |  [yaml-your-cloud](https://github.com/askmeegs/yaml-your-cloud) |  | askmeegs | 6 |
 | 42 |  [otterize-cli](https://github.com/otterize/otterize-cli) | CLI utility to interact with the open source network mapper and Otterize Cloud. | otterize | 27 |
 | 43 |  [aiac](https://github.com/gofireflyio/aiac) | Artificial Intelligence Infrastructure-as-Code Generator. | gofireflyio | 2873 |
-| 44 |  [cue](https://github.com/cue-lang/cue) | The home of the CUE language! Validate and define text-based and dynamic configuration | cue-lang | 4245 |
+| 44 |  [cue](https://github.com/cue-lang/cue) | The home of the CUE language! Validate and define text-based and dynamic configuration | cue-lang | 4246 |
 | 45 |  [stax](https://github.com/cue-sh/stax) |  | cue-sh | 15 |
 | 46 |  [gimlet](https://github.com/gimlet-io/gimlet) | A gitops based developer platform that gives you the best of open-source out of the box. | gimlet-io | 196 |
 | 47 |  [kapp-controller](https://github.com/carvel-dev/kapp-controller) | Continuous delivery and package management for Kubernetes. | carvel-dev | 230 |
@@ -1137,7 +1137,7 @@
 | 373 |  [juicefs](https://github.com/juicedata/juicefs) | JuiceFS is a distributed POSIX file system built on top of Redis and S3. | juicedata | 8669 |
 | 374 |  [litestream](https://github.com/benbjohnson/litestream) | Streaming replication for SQLite. | benbjohnson | 8953 |
 | 375 |  [minio](https://github.com/minio/minio) | High Performance Object Storage for AI | minio | 40972 |
-| 376 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | rclone | 40476 |
+| 376 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | rclone | 40475 |
 | 377 |  [cubefs](https://github.com/cubefs/cubefs) | CubeFS is a cloud native unstructured data storage | cubefs | 3934 |
 | 378 |  [kubefire](https://github.com/innobead/kubefire) | KubeFire 🔥, creates and manages Kubernetes Clusters using Firecracker microVMs | innobead | 420 |
 | 379 |  [plow](https://github.com/six-ddc/plow) | A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display | six-ddc | 3642 |
@@ -1153,7 +1153,7 @@
 | 389 |  [kubevela](https://github.com/kubevela/kubevela) | The Modern Application Platform. | kubevela | 5615 |
 | 390 |  [goph](https://github.com/melbahja/goph) | 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀 | melbahja | 1402 |
 | 391 |  [mole](https://github.com/davrodpin/mole) | CLI application to create ssh tunnels focused on resiliency and user experience. | davrodpin | 1660 |
-| 392 |  [nfpm](https://github.com/goreleaser/nfpm) | nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go | goreleaser | 1865 |
+| 392 |  [nfpm](https://github.com/goreleaser/nfpm) | nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go | goreleaser | 1866 |
 | 393 |  [encore](https://github.com/encoredev/encore) | Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity. | encoredev | 3960 |
 | 394 |  [binctr](https://github.com/genuinetools/binctr) | Fully static, unprivileged, self-contained, containers as executable binaries. | genuinetools | 2497 |
 | 395 |  [bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | charmbracelet | 19898 |
@@ -1172,7 +1172,7 @@
 | 408 |  [godoh](https://github.com/sensepost/godoh) | 🕳 godoh - A DNS-over-HTTPS C2 | sensepost | 701 |
 | 409 |  [pmm](https://github.com/percona/pmm) | Percona Monitoring and Management: an open source database monitoring, observability and management tool | percona | 436 |
 | 410 |  [trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | aquasecurity | 18770 |
-| 411 |  [Cloak](https://github.com/cbeuw/Cloak) | A censorship circumvention tool to evade detection by authoritarian state adversaries | cbeuw | 2702 |
+| 411 |  [Cloak](https://github.com/cbeuw/Cloak) | A censorship circumvention tool to evade detection by authoritarian state adversaries | cbeuw | 2703 |
 | 412 |  [zitadel](https://github.com/zitadel/zitadel) | ZITADEL - Identity infrastructure, simplified for you. | zitadel | 4709 |
 | 413 |  [rdpgw](https://github.com/bolkedebruin/rdpgw) | Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes | bolkedebruin | 543 |
 | 414 |  [trasa](https://github.com/seknox/trasa) | Zero Trust Service Access | seknox | 372 |
@@ -1248,7 +1248,7 @@
 | 484 |  [riot](https://github.com/go-ego/riot) | Go Open Source, Distributed, Simple and efficient Search Engine; Warning: This is V1 and beta version, because of big memory consume, and the V2 will be rewrite all code. | go-ego | 6097 |
 | 485 |  [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) | Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes | prometheus-operator | 8307 |
 | 486 |  [kind](https://github.com/kubernetes-sigs/kind) | Kubernetes IN Docker - local clusters for testing Kubernetes | kubernetes-sigs | 12043 |
-| 487 |  [gitness](https://github.com/harness/gitness) | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. | harness | 29236 |
+| 487 |  [gitness](https://github.com/harness/gitness) | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. | harness | 29237 |
 | 488 |  [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | kubernetes | 102000 |
 | 489 |  [wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) | Go WebAssembly runtime powered by Wasmtime | bytecodealliance | 663 |
 | 490 |  [kubernetes-ingress](https://github.com/nginxinc/kubernetes-ingress) | NGINX and  NGINX Plus Ingress Controllers for Kubernetes | nginxinc | 4368 |
@@ -1269,7 +1269,7 @@
 | 505 |  [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads &amp; trackers blocking DNS server | AdguardTeam | 18680 |
 | 506 |  [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. | Dreamacro | 47108 |
 | 507 |  [stegify](https://github.com/DimitarPetrov/stegify) | 🔍 Go tool for LSB steganography, capable of hiding any file within an image. | DimitarPetrov | 1127 |
-| 508 |  [restic](https://github.com/restic/restic) | Fast, secure, efficient backup program | restic | 21273 |
+| 508 |  [restic](https://github.com/restic/restic) | Fast, secure, efficient backup program | restic | 21272 |
 | 509 |  [sabakan](https://github.com/cybozu-go/sabakan) | A versatile network boot server for large data centers | cybozu-go | 111 |
 | 510 |  [easy-novnc](https://github.com/pgaskin/easy-novnc) | Single-binary noVNC instance, web UI, and multi-host proxy. | pgaskin | 161 |
 | 511 |  [lightify](https://github.com/alash3al/lightify) | a reverse proxy that boosts the web app performance! | alash3al | 191 |
@@ -1560,7 +1560,7 @@
 | 796 |  [cli](https://github.com/smallstep/cli) | 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. | smallstep | 3259 |
 | 797 |  [sso](https://github.com/buzzfeed/sso) | sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services | buzzfeed | 3035 |
 | 798 |  [rexray](https://github.com/rexray/rexray) | REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads | rexray | 2106 |
-| 799 |  [task](https://github.com/go-task/task) | A task runner / simpler Make alternative written in Go | go-task | 8645 |
+| 799 |  [task](https://github.com/go-task/task) | A task runner / simpler Make alternative written in Go | go-task | 8646 |
 | 800 |  [goofys](https://github.com/kahing/goofys) | a high-performance, POSIX-ish Amazon S3 file system written in Go | kahing | 4824 |
 | 801 |  [gaia](https://github.com/gaia-pipeline/gaia) | Build powerful pipelines in any programming language. | gaia-pipeline | 5108 |
 | 802 |  [beats](https://github.com/elastic/beats) | :tropical_fish: Beats - Lightweight shippers for Elasticsearch &amp; Logstash | elastic | 11808 |
@@ -1648,7 +1648,7 @@
 | 884 |  [athenapdf](https://github.com/arachnys/athenapdf) | Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker | arachnys | 2265 |
 | 885 |  [go-rancher-gen](https://github.com/janeczku/go-rancher-gen) | :cow: Generate configuration files using templates and Rancher Metadata | janeczku | 32 |
 | 886 |  [Sia](https://github.com/NebulousLabs/Sia) | Blockchain-based marketplace for file storage. Project has moved to GitLab: https://gitlab.com/NebulousLabs/Sia | NebulousLabs | 2714 |
-| 887 |  [transfer.sh](https://github.com/dutchcoders/transfer.sh) | Easy and fast file sharing from the command-line. | dutchcoders | 14392 |
+| 887 |  [transfer.sh](https://github.com/dutchcoders/transfer.sh) | Easy and fast file sharing from the command-line. | dutchcoders | 14393 |
 | 888 |  [drone-rancher](https://github.com/josmo/drone-rancher) | Drone plugin for triggering Rancher deployments | josmo | 53 |
 | 889 |  [caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | caddyserver | 49925 |
 | 890 |  [tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | TykTechnologies | 8829 |
@@ -1918,10 +1918,10 @@
 | 40 |  [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) | Dgrm.net - flowchart editor. Works on desktop, phone and tablet. Has no dependency. Pure JavaScript. | AlexeyBoiko | 788 |
 | 41 |  [Drawflow](https://github.com/jerosoler/Drawflow) | Simple flow library 🖥️🖱️ | jerosoler | 3604 |
 | 42 |  [wireflow](https://github.com/vanila-io/wireflow) | Wireflow - user flow chart real-time collaborative tool | vanila-io | 3472 |
-| 43 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | mermaid-js | 61409 |
+| 43 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | mermaid-js | 61410 |
 | 44 |  [yargs](https://github.com/yargs/yargs) | yargs the modern, pirate-themed successor to optimist. | yargs | 10680 |
 | 45 |  [args](https://github.com/leo/args) | Toolkit for building command line interfaces | leo | 447 |
-| 46 |  [maid](https://github.com/egoist/maid) | Markdown driven task runner. | egoist | 2003 |
+| 46 |  [maid](https://github.com/egoist/maid) | Markdown driven task runner. | egoist | 2004 |
 | 47 |  [undertaker](https://github.com/gulpjs/undertaker) | Task registry that allows composition through series/parallel methods. | gulpjs | 189 |
 | 48 |  [rc](https://github.com/dominictarr/rc) | The non-configurable configuration loader for lazy people. | dominictarr | 996 |
 | 49 |  [shelljs](https://github.com/shelljs/shelljs) | :shell: Portable Unix shell commands for Node.js | shelljs | 13969 |
@@ -2425,7 +2425,7 @@
 | 547 |  [You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) | Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. | camsong | 20323 |
 | 548 |  [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | Based on a true story | NARKOZ | 46818 |
 | 549 |  [notie](https://github.com/jaredreich/notie) | 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies | jaredreich | 6296 |
-| 550 |  [remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. | remoteintech | 25893 |
+| 550 |  [remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. | remoteintech | 25894 |
 | 551 |  [nylas-mail](https://github.com/nylas/nylas-mail) | :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome! | nylas | 24763 |
 | 552 |  [StarCraft](https://github.com/gloomyson/StarCraft) | HTML5 version of StarCraft game | gloomyson | 6608 |
 | 553 |  [slack-poker-bot](https://github.com/CharlieHess/slack-poker-bot) | A bot that deals Texas Hold&#39;em games in Slack | CharlieHess | 1670 |
@@ -2687,7 +2687,7 @@
 | 5 |  [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | nomi-sec | 5386 |
 | 6 |  [awesome-readme](https://github.com/matiassingers/awesome-readme) | A curated list of awesome READMEs | matiassingers | 15395 |
 | 7 |  [servo](https://github.com/servo/servo) | The Servo Browser Engine | servo | 23912 |
-| 8 |  [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews | karanpratapsingh | 20592 |
+| 8 |  [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews | karanpratapsingh | 20593 |
 | 9 |  [developer-portfolios](https://github.com/emmabostian/developer-portfolios) | A list of developer portfolios for your inspiration | emmabostian | 5305 |
 | 10 |  [awesome-ddd](https://github.com/heynickc/awesome-ddd) | A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources | heynickc | 10281 |
 | 11 |  [awesome-unikernels](https://github.com/infoslack/awesome-unikernels) | A list about Unikernels | infoslack | 98 |
@@ -2781,7 +2781,7 @@
 | 99 |  [storyblok](https://github.com/storyblok/storyblok) | Info about Storyblok | storyblok | 306 |
 | 100 |  [mdast](https://github.com/syntax-tree/mdast) | Markdown Abstract Syntax Tree format | syntax-tree | 902 |
 | 101 |  [Wifey-Miro](https://github.com/lightningRalf/Wifey-Miro) |  | lightningRalf | 4 |
-| 102 |  [awesome-startup](https://github.com/KrishMunot/awesome-startup) | :sunglasses: All the required resources to build your own startup | KrishMunot | 1448 |
+| 102 |  [awesome-startup](https://github.com/KrishMunot/awesome-startup) | :sunglasses: All the required resources to build your own startup | KrishMunot | 1449 |
 | 103 |  [security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) | security tips for startups | forter | 4540 |
 | 104 |  [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) | Listing of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more! | engineerapart | 6960 |
 | 105 |  [sre-interview](https://github.com/michaelkkehoe/sre-interview) | A collection of questions to practice with for SRE interviews | michaelkkehoe | 845 |
@@ -2802,7 +2802,7 @@
 | 120 |  [vuln-list](https://github.com/aquasecurity/vuln-list) | NVD, Ubuntu, Alpine | aquasecurity | 366 |
 | 121 |  [tradingview-pinescript-indicators](https://github.com/everget/tradingview-pinescript-indicators) | A collection of the various technical indicators implemented in Pine Script Language | everget | 312 |
 | 122 |  [pine-utils](https://github.com/pinecoders/pine-utils) | Code Snippets + Tricks &amp; Tips to help Pine Script developers | pinecoders | 357 |
-| 123 |  [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) | A Comprehensive Collection of Everything Related to Tradingview Pine Script. | pAulseperformance | 786 |
+| 123 |  [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) | A Comprehensive Collection of Everything Related to Tradingview Pine Script. | pAulseperformance | 787 |
 | 124 |  [hacking-resources](https://github.com/Lifka/hacking-resources) | Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals. | Lifka | 1609 |
 | 125 |  [kb](https://github.com/hackerschoice/kb) | The Hacker&#39;s Choice Knowledge Base &amp; Articles | hackerschoice | 8 |
 | 126 |  [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups | kuchin | 21786 |
@@ -3185,7 +3185,7 @@
 | 37 |  [consoleme](https://github.com/Netflix/consoleme) | A Central Control Plane for AWS Permissions and Access | Netflix | 3017 |
 | 38 |  [aws-cli](https://github.com/aws/aws-cli) | Universal Command Line Interface for Amazon Web Services | aws | 14310 |
 | 39 |  [aws-sam-cli](https://github.com/aws/aws-sam-cli) | CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM | aws | 6372 |
-| 40 |  [covalent](https://github.com/AgnostiqHQ/covalent) | Pythonic tool for running machine-learning/high performance/quantum-computing workflows in heterogeneous environments. | AgnostiqHQ | 510 |
+| 40 |  [covalent](https://github.com/AgnostiqHQ/covalent) | Pythonic tool for running machine-learning/high performance/quantum-computing workflows in heterogeneous environments. | AgnostiqHQ | 511 |
 | 41 |  [cloudiscovery](https://github.com/Cloud-Architects/cloudiscovery) | The tool to help you discover resources in the cloud environment | Cloud-Architects | 679 |
 | 42 |  [roadmapper](https://github.com/csgoh/roadmapper) | Roadmapper - A Roadmap as Code (Rac) python library. Generate professional roadmap diagram using python code. | csgoh | 469 |
 | 43 |  [mk](https://github.com/pycontribs/mk) | mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools! | pycontribs | 51 |
@@ -3222,7 +3222,7 @@
 | 74 |  [chatWeb](https://github.com/SkywalkerDarren/chatWeb) | ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points. | SkywalkerDarren | 735 |
 | 75 |  [tldrstory](https://github.com/neuml/tldrstory) | 📊 Semantic search for headlines and story text | neuml | 329 |
 | 76 |  [milvus_cli](https://github.com/zilliztech/milvus_cli) | Milvus Command Line | zilliztech | 48 |
-| 77 |  [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation | Pythagora-io | 4526 |
+| 77 |  [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation | Pythagora-io | 4527 |
 | 78 |  [typer](https://github.com/tiangolo/typer) | Typer, build great CLIs. Easy to code. Based on Python type hints. | tiangolo | 12150 |
 | 79 |  [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. | kuafuai | 4798 |
 | 80 |  [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions | bregman-arie | 58309 |
@@ -3272,11 +3272,11 @@
 | 124 |  [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. | huggingface | 112587 |
 | 125 |  [annlite](https://github.com/jina-ai/annlite) | ⚡ A fast embedded library for approximate nearest neighbor search | jina-ai | 196 |
 | 126 |  [llama-lab](https://github.com/run-llama/llama-lab) |  | run-llama | 944 |
-| 127 |  [llama_index](https://github.com/jerryjliu/llama_index) | LlamaIndex (GPT Index) is a data framework for your LLM applications | jerryjliu | 21927 |
+| 127 |  [llama_index](https://github.com/jerryjliu/llama_index) | LlamaIndex (GPT Index) is a data framework for your LLM applications | jerryjliu | 21928 |
 | 128 |  [lancedb](https://github.com/lancedb/lancedb) | Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! | lancedb | 1230 |
 | 129 |  [molecule](https://github.com/ansible/molecule) | Molecule aids in the development and testing of Ansible content: collections, playbooks and roles | ansible | 3681 |
 | 130 |  [crosspm](https://github.com/devopshq/crosspm) | Universal Cross Package Manager - allows you to use the manifest file to download packages of various formats from different storage locations. | devopshq | 32 |
-| 131 |  [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models | Stability-AI | 30345 |
+| 131 |  [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models | Stability-AI | 30346 |
 | 132 |  [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | microsoft | 28625 |
 | 133 |  [composer](https://github.com/mosaicml/composer) | Train neural networks up to 7x faster | mosaicml | 4618 |
 | 134 |  [flash-attention](https://github.com/Dao-AILab/flash-attention) | Fast and memory-efficient exact attention | Dao-AILab | 7079 |
@@ -3325,7 +3325,7 @@
 | 177 |  [yeti](https://github.com/yeti-platform/yeti) | Your Everyday Threat Intelligence | yeti-platform | 1429 |
 | 178 |  [beagle](https://github.com/yampelo/beagle) | Beagle is an incident response and digital forensics tool which transforms security logs and data into graphs. | yampelo | 1225 |
 | 179 |  [newspaper](https://github.com/codelucas/newspaper) | News, full-text, and article metadata extraction in Python 3. Advanced docs: | codelucas | 13138 |
-| 180 |  [scrapy](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling &amp; scraping framework for Python. | scrapy | 48606 |
+| 180 |  [scrapy](https://github.com/scrapy/scrapy) | Scrapy, a fast high-level web crawling &amp; scraping framework for Python. | scrapy | 48605 |
 | 181 |  [TradingView-data-scraper](https://github.com/jchao01/TradingView-data-scraper) | Extract price and indicator data from TradingView charts to create ML datasets | jchao01 | 431 |
 | 182 |  [malwoverview](https://github.com/alexandreborges/malwoverview) | Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, InQuest and it is able to scan Android devices against VT. | alexandreborges | 2421 |
 | 183 |  [IKH-Quant-Connect](https://github.com/fearlessspider/IKH-Quant-Connect) | Ichimoku Kinko Hyo strategy powered by Quant Connect for Python | fearlessspider | 8 |
@@ -3444,7 +3444,7 @@
 | 296 |  [OSINT](https://github.com/sinwindie/OSINT) | Collections of tools and methods created to aid in OSINT collection | sinwindie | 2313 |
 | 297 |  [textual](https://github.com/Textualize/textual) | Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser! | Textualize | 21556 |
 | 298 |  [SpoolSploit](https://github.com/BeetleChunks/SpoolSploit) | A collection of Windows print spooler exploits containerized with other utilities for practical exploitation. | BeetleChunks | 532 |
-| 299 |  [ohmyform](https://github.com/ohmyform/ohmyform) | ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺ | ohmyform | 2437 |
+| 299 |  [ohmyform](https://github.com/ohmyform/ohmyform) | ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺ | ohmyform | 2438 |
 | 300 |  [piku](https://github.com/piku/piku) | The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. | piku | 2315 |
 | 301 |  [master_librarian](https://github.com/CoolerVoid/master_librarian) | A simple tool to audit Unix/*BSD/Linux system libraries to find public security vulnerabilities | CoolerVoid | 163 |
 | 302 |  [linux-insides](https://github.com/0xAX/linux-insides) | A little bit about a linux kernel | 0xAX | 28684 |
@@ -3456,7 +3456,7 @@
 | 308 |  [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 | RunaCapital | 14007 |
 | 309 |  [CVE-2022-21907](https://github.com/ZZ-SOCMAP/CVE-2022-21907) | HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 | ZZ-SOCMAP | 367 |
 | 310 |  [sam-the-admin](https://github.com/safebuffer/sam-the-admin) | Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user | safebuffer | 929 |
-| 311 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 123685 |
+| 311 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 123686 |
 | 312 |  [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | freqtrade | 23019 |
 | 313 |  [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time | babysor | 31036 |
 | 314 |  [diagrams](https://github.com/mingrammer/diagrams) | :art: Diagram as Code for prototyping cloud system architectures | mingrammer | 31589 |
@@ -3518,7 +3518,7 @@
 | 370 |  [IntelOwl](https://github.com/intelowlproject/IntelOwl) | Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale | intelowlproject | 2897 |
 | 371 |  [Corsy](https://github.com/s0md3v/Corsy) | CORS Misconfiguration Scanner | s0md3v | 1168 |
 | 372 |  [Silver](https://github.com/s0md3v/Silver) | Mass scan IPs for vulnerable services | s0md3v | 966 |
-| 373 |  [rapidscan](https://github.com/skavngr/rapidscan) | :new: The Multi-Tool Web Vulnerability Scanner. | skavngr | 1512 |
+| 373 |  [rapidscan](https://github.com/skavngr/rapidscan) | :new: The Multi-Tool Web Vulnerability Scanner. | skavngr | 1513 |
 | 374 |  [POC-T](https://github.com/Xyntax/POC-T) | 渗透测试插件化并发框架 / Open-sourced remote vulnerability PoC/EXP framework | Xyntax | 1894 |
 | 375 |  [commix](https://github.com/commixproject/commix) | Automated All-in-One OS Command Injection Exploitation Tool. | commixproject | 4027 |
 | 376 |  [python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming) | 📼 Package media content for online streaming(DASH and HLS) using FFmpeg | hadronepoch | 727 |
@@ -4114,7 +4114,7 @@
 | 326 |  [wasm-pack](https://github.com/rustwasm/wasm-pack) | 📦✨ your favorite rust -&amp;gt; wasm workflow tool! | rustwasm | 5461 |
 | 327 |  [coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils | uutils | 15289 |
 | 328 |  [yarte](https://github.com/botika/yarte) | Yarte stands for Yet Another Rusty Template Engine | botika | 261 |
-| 329 |  [lemmy](https://github.com/LemmyNet/lemmy) | 🐀 A link aggregator and forum for the fediverse | LemmyNet | 12117 |
+| 329 |  [lemmy](https://github.com/LemmyNet/lemmy) | 🐀 A link aggregator and forum for the fediverse | LemmyNet | 12118 |
 | 330 |  [ide](https://github.com/enso-org/ide) | Enso – a visual and textual functional programming language. | enso-org | 437 |
 | 331 |  [kanidm](https://github.com/kanidm/kanidm) | Kanidm: A simple, secure and fast identity management platform | kanidm | 1659 |
 | 332 |  [gars](https://github.com/digitalsanctum/gars) | Google Authenticator CLI. | digitalsanctum | 2 |
@@ -4140,7 +4140,7 @@
 | 352 |  [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | BurntSushi | 40230 |
 | 353 |  [diem](https://github.com/diem/diem) | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | diem | 16693 |
 | 354 |  [smol](https://github.com/smol-rs/smol) | A small and fast async runtime for Rust | smol-rs | 3065 |
-| 355 |  [rustlings](https://github.com/rust-lang/rustlings) | :crab: Small exercises to get you used to reading and writing Rust code! | rust-lang | 42396 |
+| 355 |  [rustlings](https://github.com/rust-lang/rustlings) | :crab: Small exercises to get you used to reading and writing Rust code! | rust-lang | 42397 |
 | 356 |  [tock](https://github.com/tock/tock) | A secure embedded operating system for microcontrollers | tock | 4629 |
 | 357 |  [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native | emilk | 16597 |
 | 358 |  [rhai](https://github.com/rhaiscript/rhai) | Rhai - An embedded scripting language for Rust. | rhaiscript | 3062 |
@@ -4196,7 +4196,7 @@
 | 408 |  [rooster](https://github.com/conradkleinespel/rooster) | The simple password manager for geeks. | conradkleinespel | 137 |
 | 409 |  [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to &#39;find&#39; | sharkdp | 28964 |
 | 410 |  [ytop](https://github.com/cjbassi/ytop) | A TUI system monitor written in Rust | cjbassi | 2144 |
-| 411 |  [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. | tauri-apps | 68834 |
+| 411 |  [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. | tauri-apps | 68835 |
 | 412 |  [arch-audit](https://github.com/ilpianista/arch-audit) | A utility like pkg-audit for Arch Linux. Based on Arch Security Team data. | ilpianista | 319 |
 | 413 |  [actix-web](https://github.com/actix/actix-web) | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. | actix | 18637 |
 | 414 |  [tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | tokio-rs | 22229 |
@@ -4227,7 +4227,7 @@
 | 439 |  [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. | denoland | 90969 |
 | 440 |  [vagga](https://github.com/tailhook/vagga) | Vagga is a containerization tool without daemons | tailhook | 1844 |
 | 441 |  [kanban-app](https://github.com/huytd/kanban-app) | Kanban board built with Rust and Elm | huytd | 1773 |
-| 442 |  [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | alacritty | 48755 |
+| 442 |  [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | alacritty | 48756 |
 | 443 |  [i3status-rust](https://github.com/greshake/i3status-rust) | Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust | greshake | 2668 |
 | 444 |  [orange_slice](https://github.com/gamozolabs/orange_slice) | A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost | gamozolabs | 496 |
 | 445 |  [lucet](https://github.com/bytecodealliance/lucet) | Lucet, the Sandboxing WebAssembly Compiler. | bytecodealliance | 4077 |
@@ -4300,9 +4300,9 @@
 ## Shell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [lago](https://github.com/getlago/lago) | Open Source Metering and Usage Based Billing | getlago | 4408 |
+| 1 |  [lago](https://github.com/getlago/lago) | Open Source Metering and Usage Based Billing | getlago | 4409 |
 | 2 |  [multi-tenancy-gitops-services](https://github.com/cloud-native-toolkit/multi-tenancy-gitops-services) |  | cloud-native-toolkit | 9 |
-| 3 |  [project-template](https://github.com/Josee9988/project-template) | An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩 | Josee9988 | 676 |
+| 3 |  [project-template](https://github.com/Josee9988/project-template) | An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩 | Josee9988 | 675 |
 | 4 |  [kube-core](https://github.com/kube-core/kube-core) | Configure once, deploy anywhere, for Kubernetes | kube-core | 7 |
 | 5 |  [alf-conf](https://github.com/DannyBen/alf-conf) | My alf config | DannyBen | 4 |
 | 6 |  [alf](https://github.com/DannyBen/alf) | Bash Alias Generator and Manager | DannyBen | 74 |
@@ -4855,7 +4855,7 @@
 | 155 |  [wing](https://github.com/winglang/wing) | The Wing Programming Language | winglang | 2518 |
 | 156 |  [hocus](https://github.com/hocus-dev/hocus) | 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. | hocus-dev | 2934 |
 | 157 |  [dx-platform](https://github.com/devexperts/dx-platform) |  | devexperts | 32 |
-| 158 |  [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | makeplane | 16945 |
+| 158 |  [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. | makeplane | 16948 |
 | 159 |  [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. | upscayl | 18214 |
 | 160 |  [InvokeAI](https://github.com/invoke-ai/InvokeAI) | InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. | invoke-ai | 18943 |
 | 161 |  [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. | immich-app | 18996 |
@@ -5122,7 +5122,7 @@
 | 422 |  [wg-access-server](https://github.com/Place1/wg-access-server) | An all-in-one WireGuard VPN solution with a web ui for connecting devices | Place1 | 1716 |
 | 423 |  [outline](https://github.com/outline/outline) | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. | outline | 20582 |
 | 424 |  [theia](https://github.com/eclipse-theia/theia) | Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript. | eclipse-theia | 18447 |
-| 425 |  [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. | n8n-io | 33914 |
+| 425 |  [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. | n8n-io | 33915 |
 | 426 |  [docz](https://github.com/doczjs/docz) | ✍ It has never been so easy to document your things! | doczjs | 23376 |
 | 427 |  [directory-connector](https://github.com/bitwarden/directory-connector) | A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization. | bitwarden | 218 |
 | 428 |  [grapesjs](https://github.com/GrapesJS/grapesjs) | Free and Open source Web Builder Framework. Next generation tool for building templates without coding | GrapesJS | 18709 |
@@ -5165,7 +5165,7 @@
 | 465 |  [coin-cli](https://github.com/0xs34n/coin-cli) | 💸A minimal cryptocurrency CLI implementation in TypeScript &amp; Immutable.js | 0xs34n | 188 |
 | 466 |  [apprun](https://github.com/yysun/apprun) | AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components. | yysun | 1162 |
 | 467 |  [mjml](https://github.com/GrapesJS/mjml) | Newsletter Builder with MJML components in GrapesJS | GrapesJS | 564 |
-| 468 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers | yangshun | 95633 |
+| 468 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers | yangshun | 95634 |
 | 469 |  [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework | vuetifyjs | 37997 |
 | 470 |  [rendertron](https://github.com/GoogleChrome/rendertron) | A Headless Chrome rendering solution | GoogleChrome | 5921 |
 | 471 |  [puppeteer](https://github.com/puppeteer/puppeteer) | Node.js API for Chrome | puppeteer | 84650 |
@@ -5298,7 +5298,7 @@
 | 6 |  [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. | ziglang | 26147 |
 | 7 |  [zig-cli](https://github.com/sam701/zig-cli) | A simple package for building command line apps in Zig | sam701 | 74 |
 | 8 |  [bkg](https://github.com/theseyan/bkg) | Package Bun apps into a single executable | theseyan | 241 |
-| 9 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 63379 |
+| 9 |  [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | oven-sh | 63380 |
 
 **[⬆ Back to Index](#-contents)**
 
